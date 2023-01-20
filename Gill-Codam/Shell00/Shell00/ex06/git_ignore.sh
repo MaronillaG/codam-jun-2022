@@ -1,0 +1,1 @@
+ls |git status --ignored
